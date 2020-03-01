@@ -1,2 +1,4 @@
 raid
 *.o
+trace.txt
+ssd.conf
